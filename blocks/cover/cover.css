@@ -6,7 +6,16 @@
   width: 100%;
   height: 100%;
   border-radius: 10px;
-  overflow: hidden;
   box-sizing: border-box;
-  /* display: grid; */
+  padding: 30px 30px 20px 30px;
+  display: grid;
+  grid-template:
+    "menu . buttons" max-content
+    ". . ." 40px
+    ". heading ." max-content
+    ". . ." 80px
+    ". search ."
+    ". . ." 30px
+    "icons . link" max-content
+    / 1fr 2fr 1fr;
 }

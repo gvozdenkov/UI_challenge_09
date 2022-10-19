@@ -1,4 +1,6 @@
 .cover__buttons {
   display: flex;
   gap: 11px;
+  grid-area: buttons;
+  place-self: start end;
 }

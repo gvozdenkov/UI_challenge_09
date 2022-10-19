@@ -1,0 +1,6 @@
+.cover__heading {
+  grid-area: heading;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
