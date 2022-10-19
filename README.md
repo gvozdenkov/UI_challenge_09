@@ -1,4 +1,4 @@
-# Проект: 01 - Beats x
+# Проект: 09 - Landing Page
 
 [Сайт на GitHub Pages]()
 

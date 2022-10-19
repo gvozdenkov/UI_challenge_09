@@ -8,6 +8,13 @@
   border-radius: 10px;
   box-sizing: border-box;
   padding: 30px 30px 20px 30px;
-  display: flex;
-  flex-flow: column nowrap;
+  display: grid;
+  grid-template:
+    "header" max-content
+    "." 40px
+    "title" max-content
+    "." 80px
+    "search" max-content
+    "." auto
+    "footer" max-content;
 }

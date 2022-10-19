@@ -1,7 +1,7 @@
 .cover__heading {
-  grid-area: heading;
   display: flex;
   flex-flow: column;
   align-items: center;
-  margin: 40px 0 80px;
+  grid-area: title;
+  place-self: start center;
 }
