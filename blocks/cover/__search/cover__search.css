@@ -1,3 +1,8 @@
 .cover__search {
   grid-area: search;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  width: 60%;
+  margin: 0 auto;
 }

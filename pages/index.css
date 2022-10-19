@@ -9,11 +9,14 @@
 @import url(../blocks/text-base/text-base.css);
 
 @import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__header/cover__header.css);
 @import url(../blocks/cover/__menu/cover__menu.css);
 @import url(../blocks/cover/__buttons/cover__buttons.css);
 @import url(../blocks/cover/__heading/cover__heading.css);
 @import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__search/cover__search.css);
+@import url(../blocks/cover/__footer/cover__footer.css);
 @import url(../blocks/cover/__socials/cover__socials.css);
 @import url(../blocks/cover/__link/cover__link.css);
 

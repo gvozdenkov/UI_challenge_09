@@ -3,4 +3,6 @@
   max-width: 1400px;
   min-width: 320px;
   margin: auto;
+  padding: 0 30px;
+  box-sizing: border-box;
 }
