@@ -1,0 +1,10 @@
+.form__search-btn {
+  background: url(../../../images/magnifying-glass.svg) center no-repeat;
+  background-size: 100%;
+  border: 0;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  right: 20px;
+  top: 22px;
+}
